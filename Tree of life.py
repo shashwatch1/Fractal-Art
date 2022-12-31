@@ -1,4 +1,4 @@
-# Developer - Tonumoy Mukherjee
+# Developer - Tonumoy Mukherjee and Shashwat Chauhan
 
 
 import turtle as tu
